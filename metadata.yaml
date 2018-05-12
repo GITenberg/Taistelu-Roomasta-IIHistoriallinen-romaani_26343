@@ -1,0 +1,37 @@
+_repo: Taistelu-Roomasta-IIHistoriallinen-romaani_26343
+_version: 0.1.0
+alternative_title: Ein Kampf um Rom. Finnish
+contributor:
+  translator:
+    agent_name: Tukiainen, Werneri
+    gutenberg_agent_id: '31890'
+    url: http://www.gutenberg.org/2009/agents/31890
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dahn, Felix
+    birthdate: 1834
+    deathdate: 1912
+    gutenberg_agent_id: '31889'
+    url: http://www.gutenberg.org/2009/agents/31889
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Dahn
+description: ''
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26343'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Rome -- History -- Empire, 284-476 -- Fiction'
+- !lcsh 'Rome -- History -- Germanic Invasions, 3rd-6th centuries -- Fiction'
+- !lcsh 'Byzantine Empire -- Fiction'
+title: 'Taistelu Roomasta II
+
+  Historiallinen romaani'
+url: http://www.gutenberg.org/ebooks/26343
